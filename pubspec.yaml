@@ -1,0 +1,9 @@
+name: band_open_api
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: 1.1.0
